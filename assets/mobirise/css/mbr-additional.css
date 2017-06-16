@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+
+
+
+
+#menu-0 .navbar-toggler {
+  color: #000;
+}
+#menu-0 .nav-link {
+  font-size: 19px;
+  font-family: 'Lato', sans-serif;
+}
+#social-buttons2-3 .mbr-section-title {
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+  color: #ffffff;
+}
+#form1-6 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+}
+#form1-6 .btn {
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-9 B {
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-9 P {
+  font-family: 'Lato', sans-serif;
+}
+#contacts3-9 STRONG {
+  font-family: 'Lato', sans-serif;
+  color: #fbfbfb;
+}
